@@ -1,0 +1,22 @@
+# Configuracion de pylint para el proyecto de Manim.
+# Las escenas se unen en VideoCompleto, por eso pylint no ve self.play, self.wait, etc.
+
+[MESSAGES CONTROL]
+disable=
+    no-menber,
+    wildcard-import,
+    unused-wildcard-import,
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    invalid-name,
+    line-too-long,
+    too-many-lines,
+    too-many-locals,
+    too-many-statements,
+    attribute-defined-outside-init,
+    broad-exception-caught,
+    wrong-import-position,
+    unused-argument,
+    redefined-outer-name,
+    duplicate-code
