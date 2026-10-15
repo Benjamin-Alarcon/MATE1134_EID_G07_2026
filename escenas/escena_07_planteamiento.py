@@ -1,6 +1,4 @@
-"""Escena: EscenaPlanteamiento.
-
-Responsable: Benito Carbonell."""
+"""Escena: EscenaPlanteamiento."""
 from manim import *
 from ajustes import INTEGRANTE_3
 from base_video import txt, W
