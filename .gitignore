@@ -1,0 +1,9 @@
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
+
+# Videos y caché que genera Manim (pesan mucho y se regeneran)
+media/
+
+# Lo regenera cada render; si se sube, genera conflictos entre integrantes
+marcas_tiempo.txt
