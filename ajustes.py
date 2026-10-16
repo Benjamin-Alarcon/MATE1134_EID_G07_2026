@@ -11,9 +11,9 @@ GRUPO = "Grupo 7"
 ENLACE_GITHUB = "https://github.com/Benjamin-Alarcon/MATE1134_EID_G07_2026.git"
 
 FUENTES = [
-    "Apunte base: Introducción a la integral.\nCálculo Intermedio, 2026.",
-    "Stewart, J. Cálculo de una variable. Trascendentes tempranas,\n(7.ª ed.):pag 375 Cengage Learning.",
-    "Larson, R. y Edwards, B. Cálculo (Tomo I): pag 271 - 275",
+    "Apunte base: Introducción a la integral.\nCálculo Intermedio, Ingeniería Civil Informática, 2026.",
+    "Stewart, J. (2012). Cálculo de una variable. Trascendentes\ntempranas (7.ª ed.). Cengage Learning. Sección 5.4, p. 401.",
+    "Larson, R. y Edwards, B. H. (2010). Cálculo, Tomo 1 (9.ª ed.).\nMcGraw-Hill. Sección 4.3, pp. 271-272.",
 ]
 RECURSOS = [
     "Manim Community v0.22.0 (documentación: docs.manim.community)",
@@ -24,5 +24,6 @@ RECURSOS = [
 DECLARACION_IA = [
     "Uso de IA: Claude (Anthropic).",
     "Apoyo: en escritura del código de Manim.",
+    "Apoyo: escritura de documento en Latex"
     "Verificación: entre el audio y ejecución de cada escena.",
 ]
