@@ -7,7 +7,7 @@ Video animado con Manim: **Cambio acumulado versus cantidad final**
 
 | | |
 |---|---|
-| **Curso** | MAT1134 - Cálculo Intermedio |
+| **Curso** | MAT1134 - Cálculo Intermedio - sección 1|
 | **Grupo** | 7 |
 | **Año** | 2026 |
 | **Tema** | ¿Cambio acumulado versus cantidad final? |
@@ -19,7 +19,7 @@ Video animado con Manim: **Cambio acumulado versus cantidad final**
 |---|---|
 | Elias Cayuqueo | [@elias-cv](https://github.com/elias-cv) |
 | Benjamin Alarcón | [@Benjamin-Alarcon](https://github.com/Benjamin-Alarcon) |
-| Benito Carbonell | [@elbno] (https://github.com/elbno) |
+| Benito Carbonell | [@elbno](https://github.com/elbno) |
 
 ## Pregunta central
 
@@ -146,15 +146,14 @@ Cada integrante subió su parte desde una rama propia mediante un Pull Request, 
 ## Referencias
 1. Apunte base: “Introducción a la integral”, Cálculo Intermedio, Ingeniería Civil Informática, 2026.
 
-2. Stewart, J. *Cálculo de una variable. Trascendentes tempranas*, 7.ª ed. Cengage Learning, (2012). Sección 5.4, Teorema del cambio neto, p. 401.
-- https://www.cozing.com.bo/uploads/document/file/7/15594248204566.pdf
+2. Stewart, J. (2012). Cálculo de una variable. Trascendentes tempranas (7.ª ed.). Cengage Learning. Sec. 5.4, Teorema del cambio neto, p. 401. ISBN: 978-607-481-881-9
 
-3. Larson, R. y Edwards, B. H. *Cálculo*, Tomo 1. Cengage Learning, (2010). Sección 4.3, pp. 271-272 (Teorema 4.6, propiedad aditiva de intervalos).
-- https://ingindustrial869624637.wordpress.com/wp-content/uploads/2019/02/calculo-1-ron-larson-.pdf
+3. Larson, R. y Edwards, B. H. (2010). *Cálculo 1 de una variable* (9.ª ed.). McGraw-Hill/Interamericana Editores. ISBN 978-607-15-0273-5. Sec. 4.3, pp. 271-273 (definiciones de suma de Riemann e integral definida), propiedad aditiva de intervalos.
 
-4. Manim Community. *Manim Community Documentation*, v0.22.0. https://docs.manim.community/
+4. Manim Community. *Manim Community Documentation*, (v0.22.0). 
+- https://docs.manim.community/
 
-No se adaptó código externo. Las escenas son propias y usan las herramientas de Manim Community.
+No se adaptó código externo.
 
 ## Declaración de uso de IA
 
@@ -174,6 +173,6 @@ git rev-parse HEAD
 ## Reglas para no tener conflictos
 
 - Cada uno edita **solo sus archivos**. Si necesitas cambiar uno ajeno, pídelo en el grupo.
-- Trabaja en una rama propia, haz `git add archivo` (nunca `git add .`) y un commit por 1 o varios cambio.
+- Trabaja en una rama propia, haz `git add archivo` (nunca `git add .`) y un commit por 1 o varios cambios.
 - No subas `media/`, `.venv/` ni `marcas_tiempo.txt` (ya están en `.gitignore`).
 - Si cambian dependencias (`uv add ...`), avisar: se modifican `pyproject.toml` y `uv.lock`.
