@@ -146,9 +146,10 @@ Cada integrante subió su parte desde una rama propia mediante un Pull Request, 
 ## Referencias
 1. Apunte base: “Introducción a la integral”, Cálculo Intermedio, Ingeniería Civil Informática, 2026.
 
-2. Stewart, J. (2012). Cálculo de una variable. Trascendentes tempranas (7.ª ed.). Cengage Learning. Sec. 5.4, Teorema del cambio neto, p. 401. ISBN: 978-607-481-881-9
+2. Stewart, J. (2012). Cálculo de una variable. Trascendentes tempranas (7.ª ed.). Cengage Lear
+ning. Sec. 5.4, Teorema del cambio neto, p. 401. ISBN: 978-607-481-881-9
 
-3. Larson, R. y Edwards, B. H. (2010). *Cálculo 1 de una variable* (9.ª ed.). McGraw-Hill/Interamericana Editores. ISBN 978-607-15-0273-5. Sec. 4.3, pp. 271-273 (definiciones de suma de Riemann e integral definida), propiedad aditiva de intervalos.
+3. Larson, R. y Edwards, B. H. (2016). Cálculo (Tomo 1). Cengage Learning. Sec. 4.3, pp. 271 - 272. eISBN: 978-607-522-016-1
 
 4. Manim Community. *Manim Community Documentation*, (v0.22.0). 
 - https://docs.manim.community/
