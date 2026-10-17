@@ -107,7 +107,7 @@ El archivo queda en `media/videos/animacion-manim/<calidad>/VideoCompleto.mp4`.
 El video completo es la clase `VideoCompleto` (en `animacion-manim.py`), que une las 12 escenas en este orden:
 
 | N.º | Archivo | Contenido |
-|---|---|---|---|
+|---|---|---|
 | 1 | `escenas/escena_01_presentacion.py` | Presentación: integrantes, tema y pregunta central |
 | 2 | `escenas/escena_02_conceptos.py` | Conceptos básicos |
 | 3 | `escenas/escena_03_sumas_a_integral.py` | De las sumas de Riemann a la integral |
