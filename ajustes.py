@@ -12,8 +12,8 @@ ENLACE_GITHUB = "https://github.com/Benjamin-Alarcon/MATE1134_EID_G07_2026.git"
 
 FUENTES = [
     "Apunte base: Introducción a la integral.\nCálculo Intermedio, Ingeniería Civil Informática, 2026.",
-    "Stewart, J. (2012). Cálculo de una variable. Trascendentes\ntempranas (7.ª ed.). Cengage Learning. Sección 5.4, p. 401.",
-    "Larson, R. y Edwards, B. H. (2010). Cálculo, Tomo 1 (9.ª ed.).\nMcGraw-Hill. Sección 4.3, pp. 271-272.",
+    "Stewart, J. (2012). Cálculo de una variable. Trascendentes tempranas (7.ª ed.).\nCengage Learning. Sec. 5.4, Teorema del cambio neto, p. 401. ISBN: 978-607-481-881-9",
+    "Larson, R. y Edwards, B. H. (2016). Cálculo (Tomo 1). Cengage Learning.\nSec. 4.3, pp. 271 - 272. eISBN: 978-607-522-016-1",
 ]
 RECURSOS = [
     "Manim Community v0.22.0 (documentación: docs.manim.community)",
